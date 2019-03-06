@@ -20,6 +20,18 @@ function getAlphaTwoCode(countryName) {
     return null;
 }
 
+function createBinaryAnswer() {
+    return ["Sí", "No"]
+}
+
+function createBinaryAnswerAndNoAnswer() {
+    return ["Sí", "No", "No Responde"]
+}
+
+function createValueAnswer() {
+    return ["Mucho", "Poco", "Nada", "No Responde"]
+}
+
 class RevalidabilidadForm extends Component {
     
     constructor(props) {

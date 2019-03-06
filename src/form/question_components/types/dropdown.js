@@ -6,10 +6,7 @@ class DropdownQuestion extends Component {
   
     constructor(props) {
       super(props);
-      this.handleChange = this.handleChange.bind(this)
-      this.state = {
-        "show" : true
-    }
+      this.handleChange = this.handleChange.bind(this);
     }
   
     handleChange(event){
