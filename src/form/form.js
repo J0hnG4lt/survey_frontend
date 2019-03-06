@@ -32,6 +32,17 @@ function createValueAnswer() {
     return ["Mucho", "Poco", "Nada", "No Responde"]
 }
 
+function createSummary(title, summary) {
+    return (
+        <div className="summary">
+            <h2>
+                {title}
+            </h2>
+            <p>{summary}</p>
+        </div>
+    )
+}
+
 class RevalidabilidadForm extends Component {
     
     constructor(props) {
@@ -42,6 +53,21 @@ class RevalidabilidadForm extends Component {
         
         //This contains all the answers
         this.state = {
+            "b-pc-1" : null,
+            "b-pc-2" : null,
+            "b-pc-3" : null,
+            "b-pc-4" : null,
+            "b-ppa-1" : null,
+            "b-ppa-2" : null,
+            "b-ppa-3" : null,
+            "b-ppa-4" : null,
+            "b-ppa-5" : null,
+            "b-ppa-6" : null,
+            "b-ppa-7" : null,
+            "b-ppa-8" : null,
+            "b-ppa-9" : null,
+            "h-pc-13" : null,
+            "h-pc-14" : null,
             "sample_input_1" : null,
             "sample_input_2" : null,
             "sample_input_3" : null,
@@ -113,6 +139,217 @@ class RevalidabilidadForm extends Component {
             <form onSubmit={this.handleSubmit}>
                 <h1>Encuesta de Revalidabilidad</h1>
                 
+                
+
+                <div className="filterQuestions">
+                    
+                    {createSummary(
+                        "Preguntas Filtro",
+                        ""
+                    )}
+
+                    <RadioInputQuestion
+                        question_title={"¿Ha cursado estudios de postgrado o se ha \
+                            desempeñado profesionalmente fuera de Venezuela?, \
+                            entendiendo estudios de postgrado como cualquier \
+                            ciclo de estudios realizado luego del pregrado, \
+                            como maestrías, diplomados, doctorados, \
+                            especializaciones, etc."}
+                        component_name={"b-pc-1"}
+                        options={createBinaryAnswer()}
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="b-pc-1"
+                    />
+
+                    <RadioInputQuestion
+                        question_title={"¿Convalidó sus documentos académicos de la \
+                            USB para poder cursar estudios de postgrado o desempeñarse \
+                            profesionalmente fuera de Venezuela?, entendiendo \
+                            convalidar como validar los estudios realizados en \
+                            una institución de un determinado país en otra \
+                            institución o país."}
+                        component_name={"b-pc-2"}
+                        options={createBinaryAnswer()}
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="b-pc-2"
+                        showCondition={() => { 
+                                return this.state["b-pc-1"] === "Sí"; 
+                            }
+                        }
+                    />
+
+                    <RadioInputQuestion
+                        question_title={"¿Está actualmente cursando estudios de \
+                            postgrado o desempeñándose profesionalmente \
+                            fuera de Venezuela?"}
+                        component_name={"b-pc-3"}
+                        options={createBinaryAnswer()}
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="b-pc-3"
+                        showCondition={() => { 
+                                return this.state["b-pc-1"] === "Sí"; 
+                            }
+                        }
+                    />
+
+                    <RadioInputQuestion
+                        question_title={"¿Qué actividad está realizando \
+                            actualmente fuera de Venezuela?"}
+                        component_name={"b-pc-4"}
+                        options={[
+                            "Estoy cursando estudios de postgrado", 
+                            "Estoy trabajando", 
+                            "Estoy cursando estudios de postgrado y trabajando"
+                        ]}
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="b-pc-4"
+                        showCondition={() => { 
+                                return this.state["b-pc-3"] === "Sí"; 
+                            }
+                        }
+                    />
+
+                    <RadioInputQuestion
+                        question_title={"¿Previamente cursó estudios de \
+                            postgrado o se desempeñó profesionalmente fuera de Venezuela?"}
+                        component_name={"h-pc-13"}
+                        options={createBinaryAnswer()}
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="h-pc-13"
+                        showCondition={() => { 
+                                return this.state["b-pc-3"] === "No"; 
+                            }
+                        }
+                    />
+
+                    <RadioInputQuestion
+                        question_title={"¿Qué actividad realizó fuera de Venezuela?"}
+                        component_name={"h-pc-14"}
+                        options={[
+                            "Cursé estudios de postgrado", 
+                            "Trabajé", 
+                            "Cursé estudios de postgrado y trabajé"
+                        ]}
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="h-pc-14"
+                        showCondition={() => { 
+                                return this.state["h-pc-13"] === "Sí"; 
+                            }
+                        }
+                    />
+
+                </div>
+
+                <div className="academicProfileQuestions">
+                    
+                    {createSummary(
+                        "Perfil Académico",
+                        ""
+                    )}
+
+                    <TextInputQuestion
+                        question_title={"¿Cuál es su número de Carnet USB? (Ejemplo: 10-10000)"}
+                        component_name={"b-ppa-1"}
+                        placeholder={"Ingrese su carnet"}
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="b-ppa-1"
+                    /> 
+
+                    <NumericInputQuestion
+                        question_title={"¿En qué año culminó el pregrado en la USB?"}
+                        component_name={"b-ppa-2"}
+                        min={1969}
+                        max={2019}
+                        placeholder={"Ingrese un año"}
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="b-ppa-2"
+                    /> 
+
+                    <RadioInputQuestion
+                        question_title={"¿Cuál fue su índice académico \
+                            al culminar sus estudios de pregrado en la USB?"}
+                        component_name={"b-ppa-3"}
+                        options={
+                            [
+                                "Entre 3,0000 y 3,4999", 
+                                "Entre 3,5000 y 3,9999", 
+                                "Entre 4,0000 y 4,4999",
+                                "Entre 4,8000 y 5,0000",
+                                "No Responder"
+                            ]
+                        }
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="b-ppa-3"
+                    />
+
+                    <RadioInputQuestion
+                        question_title={"¿Obtuvo mención al graduarse?"}
+                        component_name={"b-ppa-4"}
+                        options={createBinaryAnswerAndNoAnswer()}
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="b-ppa-4"
+                    />
+
+                    <RadioInputQuestion
+                        question_title={"Si la respuesta anterior fue afirmativa, \
+                            indique la mención."}
+                        component_name={"b-ppa-5"}
+                        options={
+                            [
+                                "Cumlaude",  
+                                "Sumacumlaude",  
+                                "No Responde"
+                            ]
+                        }
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="b-ppa-5"
+                    />
+
+                    <RadioInputQuestion
+                        question_title={"¿Fue miembro de alguna agrupación estudiantil \
+                            durante sus estudios de pregrado en la USB?"}
+                        component_name={"b-ppa-6"}
+                        options={createBinaryAnswerAndNoAnswer()}
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="b-ppa-6"
+                    />
+
+                    <RadioInputQuestion
+                        question_title={"¿Inició estudios de postgrado en \
+                            Venezuela antes de realizar la gestión de convalidación?"}
+                        component_name={"b-ppa-7"}
+                        options={createBinaryAnswerAndNoAnswer()}
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="b-ppa-7"
+                    />
+
+                    <RadioInputQuestion
+                        question_title={"Si la respuesta anterior fue afirmativa, \
+                            indique en qué institución realizó estos estudios."}
+                        component_name={"b-ppa-8"}
+                        options={
+                            [
+                                "USB",
+                                "Otra institución", 
+                                "No Responde"
+                            ]
+                        }
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="b-ppa-8"
+                    />
+
+                    <RadioInputQuestion
+                        question_title={"¿Finalizó estos estudios de postgrado \
+                            en Venezuela antes de realizar la gestión \
+                            de convalidación?"}
+                        component_name={"b-ppa-9"}
+                        options={createBinaryAnswerAndNoAnswer()}
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="b-ppa-9"
+                    />
+
+                </div>
+
                 <TextInputQuestion
                     question_title={"Sample Question 1"}
                     component_name={"sample_input_1"}
