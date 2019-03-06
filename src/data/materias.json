@@ -1,0 +1,1635 @@
+	
+[
+    {
+        "year_onset" : 1971,
+        "year_end" : 1971,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Ciencias Naturales I (FIS101)", 
+                    "Ciencias Naturales II (FIS102)", 
+                    "Ciencias Naturales III (FIS103)", 
+                    "Lengua y Literatura I (LYL101)",
+                    "Lengua y Literatura I (LYL102)",
+                    "Lengua y Literatura I (LYL103)",
+                    "Matemáticas I (MAT101)",
+                    "Matemáticas II (MAT102)",
+                    "Matemáticas III (MAT103)",
+                    "Ciencias Sociales I (CIS101)",
+                    "Ciencias Sociales II (CIS102)",
+                    "Ciencias Sociales III (CIS103)",
+                    "Idiomas I (LYL111)",
+                    "Idiomas II (LYL112)",
+                    "Idiomas III (LYL113)",
+                    "Seminario I (CSH101)",
+                    "Seminario II (CSH102)",
+                    "Seminario III (CSH103)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Dibujo (MEC295)",
+                    "Estudios Generales I (CIS201)",
+                    "Estudios Generales II (LYL202)",
+                    "Estudios Generales III (CIS203)",
+                    "Física I (FIS201)",
+                    "Física II (FIS202)",
+                    "Física III (FIS203)",
+                    "Geometría Descriptiva (MEC291)",
+                    "Idiomas IV (LYL211)",
+                    "Idiomas V (LYL212)",
+                    "Idiomas VI (LYL213)",
+                    "Matemáticas IV (MAT104)",
+                    "Matemáticas V (MAT105)",
+                    "Matemáticas VI (MAT106)",
+                    "Mecánica I (MEC201)",
+                    "Programación (MAT110)",
+                    "Química Aplicada (QIM271)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Ciencias de los materiales I (MEC341)",
+                    "Dibujo de Máquinas (MEC398)",
+                    "Dinámica de Máquinas I (MEC321)",
+                    "Dinámica de Máquinas II (MEC322)",
+                    "Estudios Generales IV (LYL301)",
+                    "Estudios Generales V (CIS302)",
+                    "Estudios Generales VI (LYL303)",
+                    "Física IV (FIS204)",
+                    "Laboratorio de Ingeniería Mecánica I (MEC361)",
+                    "Matemáticas VII (MAT201)",
+                    "Mecánica II (MEC301)",
+                    "Mecánica de Fluidos I (MEC331)",
+                    "Mecánica de Fluidos II (MEC332)",
+                    "Resistencia de Materiales I (MEC311)",
+                    "Resistencia de Materiales II (MEC312)",
+                    "Termodinámica I (TFT311)",
+                    "Termodinámica II (TFT312)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Administración I (CEA402)",
+                    "Aire Acondicionado (TFT491)",
+                    "Canalizaciones Eléctricas (EYC403)",
+                    "Circuitos eléctricos (EYC203)",
+                    "Conversión Electromecánica (CTE471)",
+                    "Conversión de Energía I (CTE442)",
+                    "Conversión de Energía II (CTE443)",
+                    "Diseño I (MEC451)",
+                    "Diseño II (MEC452)",
+                    "Economía I (CEA401)",
+                    "Estudios Generales IX (CIS403)",
+                    "Estudios Generales VII (CIS401)",
+                    "Estudios Generales VIII (LYL402)",
+                    "Laboratorio de Ingeniería Mecánica II (MEC461)",
+                    "Laboratorio de Ingeniería Mecánica III (TFT484)",
+                    "Laboratorio de Transferencia de Calor (TFT481)",
+                    "Materiales (MEC411)",
+                    "Termodinámica III (TFT313)",
+                    "Transferencia de Calor I (TFT431)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Conversión de Energía III (CTE541)",
+                    "Conversión de Energía IV (CTE542)",
+                    "Economía (CEA501)",
+                    "Matemáticas Aplicadas (MAT204)",
+                    "Procesos de Fabricación I (MEC561)",
+                    "Administración II (CEA403)",
+                    "Componentes de Sistema",
+                    "Laboratorio de Ingeniería Mecánica IV (MEC581)",
+                    "Laboratorio de Ingeniería Mecánica V (CTE582)",
+                    "Laboratorio de Ingeniería Mecánica VI",
+                    "Estudios Generales X (LYL501)",
+                    "Estudios Generales XI (CIS502)",
+                    "Estudios Generales XII (LYL503)",
+                    "Teoría de Sistemas",
+                    "Procesos de Fabricación II (MEC562)",
+                    "Ingeniería de Producción I (PYP501)",
+                    "Ingeniería de Producción II (PYP502)",
+                    "Legislación y ética (HCS503)",
+                    "Controles Automáticos (PRO504)",
+                    "Proyectos I (PRO512)",
+                    "Proyectos II (PRO513)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1972,
+        "year_end" : 1972,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FIS111)",
+                    "Física II (FIS112)",
+                    "Física III (FIS113)",
+                    "Idiomas I (LYL121)",
+                    "Idiomas II (LYL122)",
+                    "Idiomas III (LYL123)",
+                    "Lenguaje I (LYL111)",
+                    "Lenguaje II (LYL112)",
+                    "Lenguaje III (LYL113)",
+                    "Matemáticas I (MAT111)",
+                    "Matemáticas II (MAT112)",
+                    "Matemáticas III (MAT113)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Física IV (FIS211)",
+                    "Física V (FIS212)",
+                    "Física VI (FIS213)",
+                    "Idiomas IV (LYL221)",
+                    "Idiomas V (LYL222)",
+                    "Idiomas VI (LYL223)",
+                    "Matemáticas IV (MAT211)",
+                    "Matemáticas V (MAT212)",
+                    "Matemáticas VI (MAT213)",
+                    "Mecánica I (MEC233)",
+                    "Programación (MAT281)",
+                    "Química (QIM221)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Dibujo de Máquinas I (MEC371)",
+                    "Dibujo de Máquinas II (MEC372)",
+                    "Dinámica de Máquinas I (MEC362)",
+                    "Dinámica de Máquinas II (MEC363)",
+                    "Matemáticas VII (MAT311)",
+                    "Matemáticas VIII (MAT318)",
+                    "Mecánica II (MEC331)",
+                    "Mecánica de Fluidos I (MEC353)",
+                    "Resistencia de Materiales I (MEC342)",
+                    "Resistencia de Materiales II (MEC343)",
+                    "Termodinámica I (TFT321)",
+                    "Termodinámica II (TFT322)",
+                    "Termodinámica III (TFT323)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Ciencias de los materiales I (CMT411)",
+                    "Circuitos eléctricos (EYC421)",
+                    "Conversión Electromecánica (CTE446)",
+                    "Conversión de Energía I (CTE422)",
+                    "Conversión de Energía II (CTE423)",
+                    "Diseño I (MEC471)",
+                    "Diseño II (MEC472)",
+                    "Economía I (CEA)",
+                    "Materiales (MEC441)",
+                    "Mecánica de Fluidos II (MEC451)",
+                    "Principios de Refrigeración (TFT462)",
+                    "Procesos de Fabricación I (MEC473)",
+                    "Transferencia de Calor I (TFT451)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Conversión de Energía III (CTE521)",
+                    "Conversión de Energía IV (CTE522)",
+                    "Economía II (CEA)",
+                    "Economía III (CEA)",
+                    "Legislación y ética (CSH503)",
+                    "Procesos de Fabricación II (MEC571)",
+                    "Sistemas I (MEC582)",
+                    "Sistemas II (MEC583)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1973,
+        "year_end" : 1974,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FIS112)",
+                    "Física II (FIS113)",
+                    "Geometría (MAT117)",
+                    "Ingles I (IDM111)",
+                    "Inglés II (IDM112)",
+                    "Inglés III (IDM113)",
+                    "Lenguaje I (EGL111)",
+                    "Lenguaje II (EGL112)",
+                    "Lenguaje III (EGL113)",
+                    "Matemáticas I (MAT111)",
+                    "Matemáticas II (MAT112)",
+                    "Matemáticas III (MAT113)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Física III (FIS211)",
+                    "Física IV (FIS212)",
+                    "Física V (FIS213)",
+                    "Ingles IV (IDM211)",
+                    "Inglés V (IDM212)",
+                    "Inglés VI (IDM213)",
+                    "Matemáticas IV (MAT211)",
+                    "Matemáticas V (MAT212)",
+                    "Matemáticas VI (MAT213)",
+                    "Mecánica I (MEC233)",
+                    "Programación (MAT281)",
+                    "Química (QIM224)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Dibujo de Máquinas I (MEC371)",
+                    "Dibujo de Máquinas II (MEC372)",
+                    "Dinámica de Máquinas I (MEC362)",
+                    "Dinámica de Máquinas II (MEC363)",
+                    "Matemáticas VII (MAT311)",
+                    "Matemáticas VIII (MAT318)",
+                    "Mecánica II (MEC331)",
+                    "Mecánica de Fluidos I (MEC353)",
+                    "Resistencia de Materiales I (MEC342)",
+                    "Resistencia de Materiales II (MEC343)",
+                    "Termodinámica I (TFT321)",
+                    "Termodinámica II (TFT322)",
+                    "Termodinámica III (TFT323)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Ciencias de los materiales I (CMT411)",
+                    "Circuitos eléctricos (EYC421)",
+                    "Conversión Electromecánica (CTE446)",
+                    "Conversión de Energía I (CTE422)",
+                    "Conversión de Energía II (CTE423)",
+                    "Diseño I (MEC471)",
+                    "Diseño II (MEC472)",
+                    "Macroeconomía (CEA411)",
+                    "Materiales (MEC441)",
+                    "Mecánica de Fluidos II (MEC451)",
+                    "Principios de Refrigeración (TFT462)",
+                    "Procesos de Fabricación I (MEC473)",
+                    "Transferencia de Calor I (TFT451)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Conversión de Energía III (CTE521)",
+                    "Conversión de Energía IV (MEC522)",
+                    "Economía de la Empresa (CTE412)",
+                    "Procesos Bulemáticos (CEA413)",
+                    "Procesos de Fabricación II (MEC571)",
+                    "Sistemas I (MEC582)",
+                    "Sistemas II (MEC583)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1975,
+        "year_end" : 1976,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FIS115)",
+                    "Física II (FIS116)",
+                    "Geometría (MAT117)",
+                    "Ingles I (IDM111)",
+                    "Inglés II (IDM112)",
+                    "Inglés III (IDM113)",
+                    "Lenguaje I (EGL111)",
+                    "Lenguaje II (EGL112)",
+                    "Lenguaje III (EGL113)",
+                    "Matemáticas I (MAT111)",
+                    "Matemáticas II (MAT112)",
+                    "Matemáticas III (MAT113)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Física III (FIS214)",
+                    "Física IV (FIS215)",
+                    "Física V (FIS216)",
+                    "Laboratorio de Física I (FIS291)",
+                    "Laboratorio de Física II (FIS292)",
+                    "Laboratorio de Física III (FIS293)",
+                    "Matemáticas IV (MAT214)",
+                    "Matemáticas V (MAT215)",
+                    "Matemáticas VI (MAT216)",
+                    "Mecánica I (MEC233)",
+                    "Programación (MAT281)",
+                    "Química (QIM224)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Dinámica de Máquinas I (MEC365)",
+                    "Dinámica de Máquinas II (MEC366)",
+                    "Diseño I (MEC371)",
+                    "Diseño II (MEC372)",
+                    "Laboratorio de Dinámica (MEC393)",
+                    "Laboratorio de Resistencia (MEC396)",
+                    "Matemáticas VII (MAT314)",
+                    "Mecánica II (MEC331)",
+                    "Mecánica de Fluidos I (MEC353)",
+                    "Resistencia de Materiales I (MEC342)",
+                    "Resistencia de Materiales II (MEC343)",
+                    "Termodinámica I (TFT321)",
+                    "Termodinámica II (TFT325)",
+                    "Termodinámica III (TFT323)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Ciencias de los materiales I (CMT411)",
+                    "Ciencias de los materiales II (CMT412)",
+                    "Circuitos eléctricos (EYC421)",
+                    "Conversión Electromecánica (CTE446)",
+                    "Conversión de Energía I (CTE425)",
+                    "Conversión de Energía II (CTE426)",
+                    "Diseño III (MEC471)",
+                    "Diseño IV (MEC472)",
+                    "Laboratorio de Ciencias de los materiales (CMT492)",
+                    "Laboratorio de Mecánica de Fluidos (MEC491)",
+                    "Laboratorio de Procesos de Fabricación I (MEC493)",
+                    "Laboratorio de Sistemas (PRS592)",
+                    "Laboratorio de Transferencia de Calor (TFT494)",
+                    "Mecánica de Fluidos II (MEC451)",
+                    "Procesos de Fabricación I (MEC473)",
+                    "Sistemas I (PRS581)",
+                    "Sistemas II (PRS582)",
+                    "Transferencia de Calor I (TFT454)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Contabilidad Gerencial/ Economía 1 (CEA411)",
+                    "Conversión de Energía III (CTE524)",
+                    "Conversión de Energía IV (CTE525)",
+                    "Economía de la Empresa/ Economía 2 (CTE412)",
+                    "Laboratorio de Conversión de Energía I (CTE595)",
+                    "Laboratorio de Conversión de Energía II (CTE596)",
+                    "Laboratorio de Procesos de Fabricación II (MEC591)",
+                    "Principios de Refrigeración I (TFT462)",
+                    "Procesos de Fabricación II (MEC571)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1977,
+        "year_end" : 1977,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FIS115)",
+                    "Física II (FIS116)",
+                    "Geometría (MAT117)",
+                    "Ingles I (IDM111)",
+                    "Inglés II (IDM112)",
+                    "Inglés III (IDM113)",
+                    "Lenguaje I (EGL111)",
+                    "Lenguaje II (EGL112)",
+                    "Lenguaje III (EGL113)",
+                    "Matemáticas I (MAT111)",
+                    "Matemáticas II (MAT112)",
+                    "Matemáticas III (MAT113)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Física III (FIS214)",
+                    "Física IV (FIS215)",
+                    "Física V (FIS216)",
+                    "Laboratorio de Física I (FIS291)",
+                    "Laboratorio de Física II (FIS292)",
+                    "Laboratorio de Física III (FIS293)",
+                    "Matemáticas IV (MAT214)",
+                    "Matemáticas V (MAT215)",
+                    "Matemáticas VI (MAT216)",
+                    "Mecánica I (MEC233)",
+                    "Programación (MAT281)",
+                    "Química (QIM224)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Dinámica de Máquinas I (MEC365)",
+                    "Dinámica de Máquinas II (MEC366)",
+                    "Diseño I (MEC371)",
+                    "Diseño II (MEC372)",
+                    "Laboratorio de Dinámica (MEC393)",
+                    "Laboratorio de Resistencia (MEC396)",
+                    "Matemáticas VII (MAT314)",
+                    "Mecánica II (MEC331)",
+                    "Mecánica de Fluidos I (MEC353)",
+                    "Resistencia de Materiales I (MEC342)",
+                    "Resistencia de Materiales II (MEC343)",
+                    "Termodinámica I (TFT321)",
+                    "Termodinámica II (MEC325)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Ciencias de los materiales I (CMT411)",
+                    "Ciencias de los materiales II (CMT412)",
+                    "Circuitos eléctricos (EYC421)",
+                    "Conversión Electromecánica (CTE446)",
+                    "Conversión de Energía I (CTE425)",
+                    "Conversión de Energía II (CTE426)",
+                    "Diseño III (MEC471)",
+                    "Diseño IV (MEC472)",
+                    "Laboratorio de Ciencias de los materiales (CMT492)",
+                    "Laboratorio de Mecánica de Fluidos (MEC491)",
+                    "Laboratorio de Procesos de Fabricación I (MEC493)",
+                    "Laboratorio de Sistemas (PRS592)",
+                    "Laboratorio de Transferencia de Calor (TFT494)",
+                    "Mecánica de Fluidos II (MEC451)",
+                    "Procesos de Fabricación I (MEC473)",
+                    "Sistemas I (PRS581)",
+                    "Sistemas II (PRS582)",
+                    "Transferencia de Calor I (TFT454)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Contabilidad Gerencial/ Economía 1 (CEA411)",
+                    "Conversión de Energía III (CTE534)",
+                    "Conversión de Energía IV (CTE535)",
+                    "Economía de la Empresa/ Economía 2 (CTE412)",
+                    "Laboratorio de Conversión de Energía I (CTE595)",
+                    "Laboratorio de Conversión de Energía II (CTE596)",
+                    "Laboratorio de Procesos de Fabricación II (MEC591)",
+                    "Principios de Refrigeración I (TFT462)",
+                    "Procesos de Fabricación II (MEC571)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1978,
+        "year_end" : 1979,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FIS115)",
+                    "Física II (FIS116)",
+                    "Geometría (MAT117)",
+                    "Ingles I (IDM111)",
+                    "Inglés II (IDM112)",
+                    "Inglés III (IDM113)",
+                    "Lenguaje I (EGL111)",
+                    "Lenguaje II (EGL112)",
+                    "Lenguaje III (EGL113)",
+                    "Matemáticas I (MAT100)",
+                    "Matemáticas II (MAT100)",
+                    "Matemáticas III (MAT100)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Diseño I (MEC273)",
+                    "Física III (FIS214)",
+                    "Física IV (FIS215)",
+                    "Laboratorio de Física I (FIS291)",
+                    "Laboratorio de Física II (FIS292)",
+                    "Matemáticas IV (MAT100)",
+                    "Matemáticas V (MAT100)",
+                    "Matemáticas VI (MAT100)",
+                    "Mecánica I (MEC233)",
+                    "Programación (MAT281)",
+                    "Química (QIM224)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Dinámica de Máquinas I (MEC365)",
+                    "Dinámica de Máquinas II (MEC366)",
+                    "Diseño II (MEC371)",
+                    "Diseño III (MEC372)",
+                    "Laboratorio de Dinámica (MEC393)",
+                    "Laboratorio de Resistencia (MEC396)",
+                    "Matemáticas VII (MAT314)",
+                    "Mecánica II (MEC331)",
+                    "Mecánica de Fluidos I (MEC353)",
+                    "Resistencia de Materiales I (MEC342)",
+                    "Resistencia de Materiales II (MEC343)",
+                    "Termodinámica I (TFT321)",
+                    "Termodinámica II (MEC325)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Ciencias de los materiales I (CMT411)",
+                    "Ciencias de los materiales II (CMT412)",
+                    "Circuitos eléctricos (CTE421)",
+                    "Conversión Electromecánica (CTE446)",
+                    "Conversión de Energía I (CTE425)",
+                    "Conversión de Energía II (CTE426)",
+                    "Diseño IV (MEC471)",
+                    "Diseño V (MEC472)",
+                    "Laboratorio de Ciencias de los materiales (CMT492)",
+                    "Laboratorio de Mecánica de Fluidos (MEC491)",
+                    "Laboratorio de Procesos de Fabricación I (MEC493)",
+                    "Laboratorio de Sistemas (PRS592)",
+                    "Laboratorio de Transferencia de Calor (TFT494)",
+                    "Mecánica de Fluidos II (MEC451)",
+                    "Procesos de Fabricación I (MEC473)",
+                    "Sistemas I (PRS425)",
+                    "Sistemas II (PRS582)",
+                    "Transferencia de Calor I (TFT454)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Contabilidad Gerencial/ Economía 1 (CEA411)",
+                    "Conversión de Energía III (CTE534)",
+                    "Conversión de Energía IV (CTE535)",
+                    "Economía de la Empresa/ Economía 2 (CTE412)",
+                    "Laboratorio de Conversión de Energía I (CTE595)",
+                    "Laboratorio de Conversión de Energía II (CTE596)",
+                    "Laboratorio de Procesos de Fabricación II (MEC591)",
+                    "Principios de Refrigeración I (TFT462)",
+                    "Procesos de Fabricación II (MEC571)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1980,
+        "year_end" : 1981,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FIS115)",
+                    "Física II (FIS116)",
+                    "Geometría (MAT117)",
+                    "Ingles I (IDM111)",
+                    "Inglés II (IDM112)",
+                    "Inglés III (IDM113)",
+                    "Lenguaje I (EGL111)",
+                    "Lenguaje II (EGL112)",
+                    "Lenguaje III (EGL113)",
+                    "Matemáticas I (MAT100)",
+                    "Matemáticas II (MAT100)",
+                    "Matemáticas III (MAT100)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Diseño I (MEC273)",
+                    "Física III (FIS214)",
+                    "Física IV (FIS215)",
+                    "Laboratorio de Física I (FIS291)",
+                    "Laboratorio de Física II (FIS292)",
+                    "Matemáticas IV (MAT100)",
+                    "Matemáticas V (MAT100)",
+                    "Matemáticas VI (MAT100)",
+                    "Mecánica I (MEC233)",
+                    "Programación (MAT281)",
+                    "Química (QIM224)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Dinámica de Máquinas I (MEC365)",
+                    "Dinámica de Máquinas II (MEC366)",
+                    "Diseño II (MEC371)",
+                    "Diseño III (MEC372)",
+                    "Laboratorio de Dinámica (MEC393)",
+                    "Matemáticas VII (MAT100)",
+                    "Mecánica II (MEC331)",
+                    "Mecánica de Fluidos I (MEC353)",
+                    "Resistencia de Materiales I (MEC342)",
+                    "Resistencia de Materiales II (MEC343)",
+                    "Termodinámica I (TFT321)",
+                    "Termodinámica II (MEC325)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Ciencias de los materiales I (CMT411)",
+                    "Ciencias de los materiales II (CMT412)",
+                    "Conversión Electromecánica (CTE446)",
+                    "Conversión de Energía I (CTE425)",
+                    "Conversión de Energía II (CTE426)",
+                    "Diseño IV (MEC471)",
+                    "Diseño V (MEC472)",
+                    "Ingeniería Eléctrica (CTE411)",
+                    "Laboratorio de Ciencias de los materiales (CMT492)",
+                    "Laboratorio de Mecánica de Fluidos (MEC491)",
+                    "Laboratorio de Procesos de Fabricación I (MEC493)",
+                    "Laboratorio de Sistemas (PRS592)",
+                    "Laboratorio de Transferencia de Calor (TFT494)",
+                    "Mecánica de Fluidos II (MEC451)",
+                    "Procesos de Fabricación I (MEC473)",
+                    "Sistemas I (PRS425)",
+                    "Sistemas II (PRS582)",
+                    "Transferencia de Calor I (TFT454)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Contabilidad Gerencial (CEA411)",
+                    "Conversión de Energía III (CTE534)",
+                    "Conversión de Energía IV (CTE535)",
+                    "Economía de la Empresa (CTE412)",
+                    "Laboratorio de Conversión de Energía I (CTE595)",
+                    "Laboratorio de Conversión de Energía II (CTE596)",
+                    "Laboratorio de Procesos de Fabricación II (MEC591)",
+                    "Principios de Refrigeración I (TFT462)",
+                    "Procesos de Fabricación II (MEC571)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1982,
+        "year_end" : 1983,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FIS115)",
+                    "Física II (FIS116)",
+                    "Geometría (MAT117)",
+                    "Ingles I (IDM111)",
+                    "Inglés II (IDM112)",
+                    "Inglés III (IDM113)",
+                    "Lenguaje I (EGL111)",
+                    "Lenguaje II (EGL112)",
+                    "Lenguaje III (EGL113)",
+                    "Matemáticas I (MAT)",
+                    "Matemáticas II (MAT)",
+                    "Matemáticas III (MAT)",
+                    "Orientación I (DEG111)",
+                    "Orientación II (DEG112)",
+                    "Orientación III (DEG113)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Física III (FIS214)",
+                    "Física IV (FIS215)",
+                    "Laboratorio de Física I (FIS291)",
+                    "Laboratorio de Física II (FIS292)",
+                    "Matemáticas IV (MAT)",
+                    "Matemáticas V (MAT)",
+                    "Matemáticas VI (MAT)",
+                    "Mecánica I (MEC233)",
+                    "Programación (MAT281)",
+                    "Química (QIM221)",
+                    "Termodinámica I (TFT321)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Dinámica de Máquinas I (MEC366)",
+                    "Dinámica de Máquinas II (MEC365)",
+                    "Diseño I (MEC273)",
+                    "Matemáticas VII (MAT)",
+                    "Mecánica II (MEC331)",
+                    "Mecánica de Fluidos I (MEC353)",
+                    "Mecánica de Fluidos II (MEC451)",
+                    "Resistencia de Materiales I (MEC342)",
+                    "Resistencia de Materiales II (MEC343)",
+                    "Termodinámica II (TFT325)",
+                    "Transferencia de Calor I (TFT454)",
+                    "Transferencia de Calor II (TFT455)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Conversión de Energía I (CTE425)",
+                    "Conversión de Energía II (CTE426)",
+                    "Conversión de Energía III (CTE427)",
+                    "Diseño II (MEC371)",
+                    "Diseño III (MEC372)",
+                    "Diseño IV (MEC472)",
+                    "Laboratorio de Ingeniería Mecánica I (USB024)",
+                    "Materiales (CMT412)",
+                    "Métodos aproximados (MEC367)",
+                    "Procesos de Fabricación I (MEC473)",
+                    "Procesos de Fabricación II (MEC571)",
+                    "Sistemas I (PRS581)",
+                    "Sistemas II (PRS582)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Accionamientos Eléctricos (CTE446)",
+                    "Contabilidad Gerencial (CEA411)",
+                    "Economía de la Empresa (CTE412)",
+                    "Laboratorio de Ingeniería Mecánica II (USB025)",
+                    "Laboratorio de Ingeniería Mecánica III (USB026)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1984,
+        "year_end" : 1984,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FS1111)",
+                    "Física II (FS1112)",
+                    "Ingles I (ID1111)",
+                    "Inglés II (ID1112)",
+                    "Inglés III (ID1113)",
+                    "Lenguaje I (LLA111)",
+                    "Lenguaje II (LLA112)",
+                    "Lenguaje III (LLA113)",
+                    "Matemáticas I (MA1111)",
+                    "Matemáticas II (MA1112)",
+                    "Matemáticas III (MA1113)",
+                    "Orientación I (EGA111)",
+                    "Orientación II (EGA112)",
+                    "Orientación III (EGA113)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Física III (FS2211)",
+                    "Física IV (FS2212)",
+                    "Laboratorio de Física I (FS2181)",
+                    "Laboratorio de Física II (FS2281)",
+                    "Matemáticas IV (MA2111)",
+                    "Matemáticas V (MA2112)",
+                    "Matemáticas VI (MA2113)",
+                    "Mecánica I (MC2411)",
+                    "Programación (MA2811)",
+                    "Química General (QM1121)",
+                    "Termodinámica I (TF1121)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Dinámica de Máquinas I (MC2414)",
+                    "Dinámica de Máquinas II (MC2415)",
+                    "Diseño I (MC3121)",
+                    "Matemáticas VII (MA2114)",
+                    "Mecánica II (MC2413)",
+                    "Mecánica de Fluidos I (MC2312)",
+                    "Mecánica de Fluidos II (MC2313)",
+                    "Resistencia de Materiales I (MC2111)",
+                    "Resistencia de Materiales II (MC2112)",
+                    "Termodinámica II (TF2123)",
+                    "Transferencia de Calor I (TF2251)",
+                    "Transferencia de Calor II (TF2252)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Conversión de Energía I (CT3411)",
+                    "Conversión de Energía II (CT3412)",
+                    "Conversión de Energía III (CT3413)",
+                    "Diseño II (MC3122)",
+                    "Diseño III (MC3123)",
+                    "Diseño IV (MC3124)",
+                    "Laboratorio de Ingeniería Mecánica I (MC3781)",
+                    "Materiales (MT1113)",
+                    "Métodos aproximados (MC2416)",
+                    "Procesos de Fabricación I (MC3611)",
+                    "Procesos de Fabricación II (MC3612)",
+                    "Sistemas I (PS2314)",
+                    "Sistemas II (PS2315)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Accionamientos Eléctricos (CT3331)",
+                    "Contabilidad Gerencial (CE3251)",
+                    "Economía de la Empresa (CE3114)",
+                    "Laboratorio de Ingeniería Mecánica II (EP2602)",
+                    "Laboratorio de Ingeniería Mecánica III (EP3602)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1985,
+        "year_end" : 1985,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FS1111)",
+                    "Física II (FS1112)",
+                    "Ingles I (ID1111)",
+                    "Inglés II (ID1112)",
+                    "Inglés III (ID1113)",
+                    "Lenguaje I (LLA111)",
+                    "Lenguaje II (LLA112)",
+                    "Lenguaje III (LLA113)",
+                    "Matemáticas I (MA1111)",
+                    "Matemáticas II (MA1112)",
+                    "Matemáticas III (MA1113)",
+                    "Orientación I (EGA111)",
+                    "Orientación II (EGA112)",
+                    "Orientación III (EGA113)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Física III (FS2211)",
+                    "Física IV (FS2212)",
+                    "Laboratorio de Física I (FS2181)",
+                    "Laboratorio de Física II (FS2281)",
+                    "Matemáticas IV (MA2111)",
+                    "Matemáticas V (MA2112)",
+                    "Matemáticas VI (MA2113)",
+                    "Mecánica I (MC2411)",
+                    "Programación (MA2811)",
+                    "Química General (QM1121)",
+                    "Termodinámica I (TF1121)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Dinámica de Máquinas I (MC2414)",
+                    "Dinámica de Máquinas II (MC2415)",
+                    "Diseño I (MC3121)",
+                    "Matemáticas VII (MA2114)",
+                    "Mecánica II (MC2413)",
+                    "Mecánica de Fluidos I (MC2312)",
+                    "Mecánica de Fluidos II (MC2313)",
+                    "Resistencia de Materiales I (MC2111)",
+                    "Resistencia de Materiales II (MC2112)",
+                    "Termodinámica II (TF2123)",
+                    "Transferencia de Calor I (TF2251)",
+                    "Transferencia de Calor II (TF2252)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Conversión de Energía I (CT3411)",
+                    "Conversión de Energía II (CT3412)",
+                    "Conversión de Energía III (CT3413)",
+                    "Diseño II (MC3122)",
+                    "Diseño III (MC3123)",
+                    "Diseño IV (MC3124)",
+                    "Laboratorio de Ingeniería Mecánica I (MC3781)",
+                    "Materiales (MT1113)",
+                    "Métodos aproximados (MC2416)",
+                    "Procesos de Fabricación I (MC3611)",
+                    "Procesos de Fabricación II (MC3612)",
+                    "Sistemas I (PS2314)",
+                    "Sistemas II (PS2315)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Accionamientos Eléctricos (CT3331)",
+                    "Contabilidad Gerencial (CE3251)",
+                    "Economía de la Empresa (CE3114)",
+                    "Laboratorio de Ingeniería Mecánica II (EP2602)",
+                    "Laboratorio de Ingeniería Mecánica III (EP3602)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1986,
+        "year_end" : 1987,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FS1111)",
+                    "Física II (FS1112)",
+                    "Ingles I (ID1111)",
+                    "Inglés II (ID1112)",
+                    "Inglés III (ID1113)",
+                    "Lenguaje I (LLA111)",
+                    "Lenguaje II (LLA112)",
+                    "Lenguaje III (LLA113)",
+                    "Matemáticas I (MA1111)",
+                    "Matemáticas II (MA1112)",
+                    "Matemáticas III (MA1113)",
+                    "Orientación I (EGA111)",
+                    "Orientación II (EGA112)",
+                    "Orientación III (EGA113)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Diseño I (MC3121)",
+                    "Física III (FS2211)",
+                    "Física IV (FS2212)",
+                    "Laboratorio de Física I (FS2181)",
+                    "Laboratorio de Física II (FS2281)",
+                    "Matemáticas IV (MA2111)",
+                    "Matemáticas V (MA2112)",
+                    "Matemáticas VI (MA2113)",
+                    "Mecánica I (MC2411)",
+                    "Métodos Aproximados (MC2416)",
+                    "Programación (MA2811)",
+                    "Química General (QM1121)",
+                    "Termodinámica I (TF1121)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Diseño II (MC3122)",
+                    "Instrumentación y Medición (MC3411)",
+                    "Matemáticas VII (MA2114)",
+                    "Mecánica II (MC2413)",
+                    "Mecánica de Fluidos I (MC2312)",
+                    "Mecánica de Fluidos II (MC2313)",
+                    "Resistencia de Materiales I (MC2111)",
+                    "Resistencia de Materiales II (MC2112)",
+                    "Termodinámica II (TF2123)",
+                    "Transferencia de Calor I (TF2251)",
+                    "Transferencia de Calor II (TF2252)",
+                    "Vibraciones Mecánicas (MC2415)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Conversión de Energía I (CT3411)",
+                    "Conversión de Energía II (CT3412)",
+                    "Conversión de Energía III (CT3413)",
+                    "Dinámica de Máquinas (MC2414)",
+                    "Diseño III (MC3123)",
+                    "Diseño IV (MC3124)",
+                    "Laboratorio de Materiales y Manufactura (MC3781)",
+                    "Laboratorio de Mecánica de Fluidos (MC4381)",
+                    "Laboratorio de Transferencias de Calor (TF4281)",
+                    "Materiales (MT1113)",
+                    "Procesos de Fabricación I (MC3611)",
+                    "Procesos de Fabricación II (MC3612)",
+                    "Sistemas I (PS2314)",
+                    "Sistemas II (PS2315)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Accionamientos Eléctricos (CT3331)",
+                    "Contabilidad Gerencial (CE3251)",
+                    "Economía de la Empresa (CE3114)",
+                    "Laboratorio de Conversión de Energía (CT4481)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1988,
+        "year_end" : 1989,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FS1111)",
+                    "Física II (FS1112)",
+                    "Herramientas P/ Microcomputadores I (MA1811)",
+                    "Herramientas P/ Microcomputadores II (MA1812)",
+                    "Ingles I (ID1111)",
+                    "Inglés II (ID1112)",
+                    "Inglés III (ID1113)",
+                    "Lenguaje I (LLA111)",
+                    "Lenguaje II (LLA112)",
+                    "Lenguaje III (LLA113)",
+                    "Matemáticas I (MA1111)",
+                    "Matemáticas II (MA1112)",
+                    "Matemáticas III (MA1113)",
+                    "Orientación I (EGA111)",
+                    "Orientación II (EGA112)",
+                    "Orientación III (EGA113)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Diseño I (MC3121)",
+                    "Física III (FS2211)",
+                    "Física IV (FS2212)",
+                    "Laboratorio de Física I (FS2181)",
+                    "Laboratorio de Física II (FS2281)",
+                    "Matemáticas IV (MA2111)",
+                    "Matemáticas V (MA2112)",
+                    "Matemáticas VI (MA2113)",
+                    "Mecánica I (MC2411)",
+                    "Métodos Aproximados (MC2416)",
+                    "Programación (Fortran o Pascal) (MA2811 o MA2813)",
+                    "Química General (QM1121)",
+                    "Termodinámica I (TF1121)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Diseño II (MC3122)",
+                    "Instrumentación y Medición (MC3411)",
+                    "Matemáticas VII (MA2114)",
+                    "Mecánica II (MC2413)",
+                    "Mecánica de Fluidos I (MC2312)",
+                    "Mecánica de Fluidos II (MC2313)",
+                    "Resistencia de Materiales I (MC2111)",
+                    "Resistencia de Materiales II (MC2112)",
+                    "Termodinámica II (TF2123)",
+                    "Transferencia de Calor I (TF2251)",
+                    "Transferencia de Calor II (TF2252)",
+                    "Vibraciones Mecánicas (MC2415)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Conversión de Energía I (CT3411)",
+                    "Conversión de Energía II (CT3412)",
+                    "Conversión de Energía III (CT3413)",
+                    "Dinámica de Máquinas (MC2414)",
+                    "Diseño III (MC3123)",
+                    "Diseño IV (MC3124)",
+                    "Laboratorio de Materiales y Manufactura (MC3781)",
+                    "Laboratorio de Mecánica de Fluidos (MC4381)",
+                    "Laboratorio de Transferencias de Calor (TF4281)",
+                    "Materiales (MT1113)",
+                    "Procesos de Fabricación I (MC3611)",
+                    "Procesos de Fabricación II (MC3612)",
+                    "Sistemas I (PS2314)",
+                    "Sistemas II (PS2315)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Accionamientos Eléctricos (CT3331)",
+                    "Contabilidad Gerencial (CE3251)",
+                    "Economía de la Empresa (CE3114)",
+                    "Laboratorio de Conversión de Energía (CT4481)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1990,
+        "year_end" : 1991,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Estudios generales en asesoramiento I (EGA111)",
+                    "Estudios generales en asesoramiento II (EGA112)",
+                    "Estudios generales en asesoramiento III (EGA113)",
+                    "Física I (FS1111)",
+                    "Física II (FS1112)",
+                    "Informática I (CI1111)",
+                    "Informática II (CI1112)",
+                    "Informática III (CI1113)",
+                    "Ingles I (ID1111)",
+                    "Inglés II (ID1112)",
+                    "Inglés III (ID1113)",
+                    "Lenguaje I (LLA111)",
+                    "Lenguaje II (LLA112)",
+                    "Lenguaje III (LLA113)",
+                    "Matemáticas I (MA1111)",
+                    "Matemáticas II (MA1112)",
+                    "Matemáticas III (MA1116)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Diseño I (MC3121)",
+                    "Física III (FS2211)",
+                    "Física IV (FS2212)",
+                    "Laboratorio de Física I (FS2181)",
+                    "Laboratorio de Física II (FS2281)",
+                    "Matemáticas IV (MA2111)",
+                    "Matemáticas V (MA2112)",
+                    "Matemáticas VI (MA2113)",
+                    "Mecánica I (MC2411)",
+                    "Métodos Aproximados (MC2416)",
+                    "Química General (QM1121)",
+                    "Termodinámica I (TF1121)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Diseño II (MC3122)",
+                    "Instrumentación y Medición (MC3411)",
+                    "Matemáticas VII (MA3111)",
+                    "Mecánica II (MC2413)",
+                    "Mecánica de Fluidos I (MC2312)",
+                    "Mecánica de Fluidos II (MC2313)",
+                    "Resistencia de Materiales I (MC2111)",
+                    "Resistencia de Materiales II (MC2112)",
+                    "Termodinámica II (TF2123)",
+                    "Transferencia de Calor I (TF2251)",
+                    "Transferencia de Calor II (TF2252)",
+                    "Vibraciones Mecánicas (MC2415)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Conversión de Energía I (CT3411)",
+                    "Conversión de Energía II (CT3412)",
+                    "Dinámica de Máquinas (MC2414)",
+                    "Diseño III (MC3123)",
+                    "Diseño IV (MC3124)",
+                    "Laboratorio de Materiales y Manufactura (MC3781)",
+                    "Laboratorio de Mecánica de Fluidos (MC4381)",
+                    "Laboratorio de Transferencias de Calor (TF4281)",
+                    "Materiales (MT1113)",
+                    "Procesos de Fabricación I (MC3611)",
+                    "Procesos de Fabricación II (MC3612)",
+                    "Sistemas (PS2314)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Accionamientos Eléctricos (CT3331)",
+                    "Contabilidad Gerencial (CE3251)",
+                    "Economía de la Empresa (CE3114)",
+                    "Laboratorio de Conversión de Energía (CT4481)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1992,
+        "year_end" : 1993,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Estudios generales en asesoramiento I (EGA111)",
+                    "Estudios generales en asesoramiento II (EGA112)",
+                    "Estudios generales en asesoramiento III (EGA113)",
+                    "Física I (FS1111)",
+                    "Física II (FS1112)",
+                    "Informática (CI1111)",
+                    "Ingles I (ID1111)",
+                    "Inglés II (ID1112)",
+                    "Inglés III (ID1113)",
+                    "Lenguaje I (LLA111)",
+                    "Lenguaje II (LLA112)",
+                    "Lenguaje III (LLA113)",
+                    "Matemáticas I (MA1111)",
+                    "Matemáticas II (MA1112)",
+                    "Matemáticas III (MA1116)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Diseño I (MC3121)",
+                    "Física III (FS2211)",
+                    "Física IV (FS2212)",
+                    "Laboratorio de Física I (FS2181)",
+                    "Laboratorio de Física II (FS2281)",
+                    "Matemáticas IV (MA2115)",
+                    "Matemáticas V (MA2112)",
+                    "Matemáticas VI (MA2113)",
+                    "Mecánica I (MC2411)",
+                    "Métodos Aproximados (MC2416)",
+                    "Química General (QM1121)",
+                    "Termodinámica I (TF1121)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Diseño II (MC3122)",
+                    "Instrumentación y Control (PS1316)",
+                    "Matemáticas VII (MA3111)",
+                    "Mecánica II (MC2413)",
+                    "Mecánica de Fluidos I (MC2312)",
+                    "Mecánica de Fluidos II (MC2313)",
+                    "Resistencia de Materiales I (MC2111)",
+                    "Resistencia de Materiales II (MC2112)",
+                    "Termodinámica II (TF2123)",
+                    "Transferencia de Calor I (TF2251)",
+                    "Transferencia de Calor II (TF2252)",
+                    "Vibraciones Mecánicas (MC2415)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Conversión de Energía I (CT3411)",
+                    "Conversión de Energía II (CT3412)",
+                    "Conversión de Energía III (CT3413)",
+                    "Dinámica de Máquinas (MC2414)",
+                    "Diseño III (MC3123)",
+                    "Diseño IV (MC3124)",
+                    "Laboratorio de Materiales y Manufactura (MC3781)",
+                    "Laboratorio de Mecánica de Fluidos (MC4381)",
+                    "Laboratorio de Transferencias de Calor (TF4281)",
+                    "Materiales (MT1113)",
+                    "Procesos de Fabricación I (MC3611)",
+                    "Procesos de Fabricación II (MC3612)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Accionamientos Eléctricos (CT3331)",
+                    "Contabilidad Gerencial (CE3251)",
+                    "Deontología Profesional (DFM500)",
+                    "Economía de la Empresa (CE3114)",
+                    "Laboratorio de Conversión de Energía (CT4481)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1994,
+        "year_end" : 1997,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FS1111)",
+                    "Física II (FS1112)",
+                    "Ingles I (ID1111)",
+                    "Inglés II (ID1112)",
+                    "Inglés III (ID1113)",
+                    "Lenguaje I (LLA111)",
+                    "Lenguaje II (LLA112)",
+                    "Lenguaje III (LLA113)",
+                    "Matemáticas I (MA1111)",
+                    "Matemáticas II (MA1112)",
+                    "Matemáticas III (MA1116)",
+                    "Venezuela ante el siglo XXI I (CSA211)",
+                    "Venezuela ante el siglo XXI II (CSA212)",
+                    "Venezuela ante el siglo XXI III (CSA213)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Diseño I (MC3121)",
+                    "Física III (FS2211)",
+                    "Física IV (FS2212)",
+                    "Laboratorio de Física I (FS2181)",
+                    "Laboratorio de Física II (FS2281)",
+                    "Matemáticas IV (MA2115)",
+                    "Matemáticas V (MA2112)",
+                    "Matemáticas VI (MA2113)",
+                    "Mecánica I (MC2411)",
+                    "Métodos Aproximados (MC2416)",
+                    "Programación (Fortran o Pascal) (CI2121 o CI2122)",
+                    "Química General (QM1121)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Diseño II (MC3122)",
+                    "Instrumentación y Control (PS1316)",
+                    "Matemáticas VII (MA3111)",
+                    "Mecánica II (MC2413)",
+                    "Mecánica de Fluidos I (MC2312)",
+                    "Mecánica de Fluidos II (MC2313)",
+                    "Resistencia de Materiales I (MC2111)",
+                    "Resistencia de Materiales II (MC2112)",
+                    "Termodinámica I (TF1121)",
+                    "Termodinámica II (TF2123)",
+                    "Transferencia de Calor I (TF2251)",
+                    "Vibraciones Mecánicas (MC2415)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Conversión de Energía I (CT3411)",
+                    "Conversión de Energía II (CT3412)",
+                    "Dinámica de Máquinas (MC2414)",
+                    "Diseño III (MC3123)",
+                    "Diseño IV (MC3124)",
+                    "Laboratorio de Mecánica de Fluidos (MC4381)",
+                    "Laboratorio de Transferencias de Calor (TF4281)",
+                    "Materiales (MT1113)",
+                    "Metodología del diseño (MC4133)",
+                    "Procesos de Fabricación I (MC3611)",
+                    "Procesos de Fabricación II (MC3612)",
+                    "Transferencia de Calor II (TF2252)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Accionamientos Eléctricos (CT3331)",
+                    "Contabilidad Gerencial (CE3251)",
+                    "Conversión de Energía III (CT3413)",
+                    "Economía de la Empresa (CE3114)",
+                    "Laboratorio de Materiales y Manufactura (MC3781)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 1998,
+        "year_end" : 2000,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FS1111)",
+                    "Física II (FS1112)",
+                    "Ingles I (ID1111)",
+                    "Inglés II (ID1112)",
+                    "Inglés III (ID1113)",
+                    "Lenguaje I (LLA111)",
+                    "Lenguaje II (LLA112)",
+                    "Lenguaje III (LLA113)",
+                    "Matemáticas I (MA1111)",
+                    "Matemáticas II (MA1112)",
+                    "Matemáticas III (MA1116)",
+                    "Venezuela ante el siglo XXI I (CSA211)",
+                    "Venezuela ante el siglo XXI II (CSA212)",
+                    "Venezuela ante el siglo XXI III (CSA213)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Dibujo Mecánico (MC2131)",
+                    "Física III (FS2211)",
+                    "Física IV (FS2212)",
+                    "Laboratorio de Física I (FS2181)",
+                    "Laboratorio de Física II (FS2281)",
+                    "Matemáticas IV (MA2115)",
+                    "Matemáticas V (MA2112)",
+                    "Matemáticas VI (MA2113)",
+                    "Mecánica Computacional I (MC2421)",
+                    "Mecánica Computacional II (MC2422)",
+                    "Mecánica I (MC2411)",
+                    "Química General (QM1121)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Dinámica de Máquinas (MC2414)",
+                    "Matemáticas VII (MA3111)",
+                    "Mecánica II (MC2413)",
+                    "Mecánica de Fluidos I (MC2312)",
+                    "Mecánica de Fluidos II (MC2313)",
+                    "Resistencia de Materiales I (MC3111)",
+                    "Resistencia de Materiales II (MC3112)",
+                    "Resistencia de Materiales III (MC3113)",
+                    "Termodinámica I (TF1121)",
+                    "Termodinámica II (TF2123)",
+                    "Transferencia de Calor I (TF2251)",
+                    "Vibraciones Mecánicas (MC2415)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Accionamientos Eléctricos (CT3331)",
+                    "Diseño de Máquinas I (MC4131)",
+                    "Diseño de Máquinas II (MC4132)",
+                    "Economía de la Empresa (CE3114)",
+                    "Instrumentación y Control (PS1316)",
+                    "Materiales (MT1113)",
+                    "Mecánica de Fluidos III (MC2314)",
+                    "Metodología del Diseño (MC4133)",
+                    "Procesos de Fabricación I (MC3611)",
+                    "Procesos de Fabricación II (MC3612)",
+                    "Transferencia de Calor II (TF2252)",
+                    "Turbomáquinas Hidráulicas (CT3411)",
+                    "Turbomáquinas Térmicas (CT3412)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Evaluación de proyectos (CE3122)",
+                    "Máquinas Volumétricas (CT3415)",
+                    "Sistemas Energéticos (CT3415)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 2001,
+        "year_end" : 2003,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FS1111)",
+                    "Física II (FS1112)",
+                    "Ingles I (ID1111)",
+                    "Inglés II (ID1112)",
+                    "Inglés III (ID1113)",
+                    "Lenguaje I (LLA111)",
+                    "Lenguaje II (LLA112)",
+                    "Lenguaje III (LLA113)",
+                    "Matemáticas I (MA1111)",
+                    "Matemáticas II (MA1112)",
+                    "Matemáticas III (MA1116)",
+                    " Venezuela ante el siglo XXI I (CSA211)",
+                    "Venezuela ante el siglo XXI II (CSA212)",
+                    "Venezuela ante el siglo XXI III (CSA213)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Dibujo Mecánico (MC2131)",
+                    "Física III (FS2211)",
+                    "Física IV (FS2212)",
+                    "Laboratorio de Física I (FS2181)",
+                    "Laboratorio de Física II (FS2281)",
+                    "Matemáticas IV (MA2115)",
+                    "Matemáticas V (MA2112)",
+                    "Matemáticas VI (MA2113)",
+                    "Mecánica Computacional I (MC2421)",
+                    "Mecánica Computacional II (MC2422)",
+                    "Mecánica de Materiales I (MC2141)",
+                    "Química General (QM1121)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Dinámica I (MC2431)",
+                    "Dinámica II (MC2432)",
+                    "Matemáticas VII (MA3111)",
+                    "Materiales (MT1113)",
+                    "Mecánica de Fluidos I (MC2312)",
+                    "Mecánica de Fluidos II (MC2313)",
+                    "Mecánica de Materiales II (MC2142)",
+                    "Mecánica de Materiales III (MC2143)",
+                    "Termodinámica I (TF1121)",
+                    "Termodinámica II (TF2123)",
+                    "Transferencia de Calor I (TF2251)",
+                    "Vibraciones Mecánicas (MC2415)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Accionamientos Eléctricos (CT3331)",
+                    "Dinámica de Máquinas (MC2414)",
+                    "Diseño de Máquinas I (MC4131)",
+                    "Diseño de Máquinas II (MC4132)",
+                    "Economía de la Empresa (CE3114)",
+                    "Instrumentación y Control (PS1316)",
+                    "Mecánica de Fluidos III (MC2314)",
+                    "Metodología del Diseño (MC4133)",
+                    "Procesos de Fabricación I (MC3611)",
+                    "Procesos de Fabricación II (MC3612)",
+                    "Transferencia de Calor II (TF2252)",
+                    "Turbomáquinas Hidráulicas (CT3411)",
+                    "Turbomáquinas Térmicas (CT3412)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Evaluación de proyectos (CE3122)",
+                    "Máquinas Volumétricas (CT3415)",
+                    "Sistemas Energéticos (CT3413)"
+                ]
+            }
+        ]
+    },
+    {
+        "year_onset" : 2004,
+        "year_end" : null,
+        "subjects" : [
+            {
+                "year" : 1,
+                "names" : [
+                    "Física I (FS1111)",
+                    "Física II (FS1112)",
+                    "Geometría Analítica (MA1511)",
+                    "Ingles I (ID1111)",
+                    "Inglés II (ID1112)",
+                    "Inglés III (ID1113)",
+                    "Lenguaje I (LLA111)",
+                    "Lenguaje II (LLA112)",
+                    "Lenguaje III (LLA113)",
+                    "Matemáticas I (MA1111)",
+                    "Matemáticas II (MA1112)",
+                    "Matemáticas III (MA1116)",
+                    "Venezuela ante el siglo XXI I (CSA211)",
+                    "Venezuela ante el siglo XXI II (CSA212)",
+                    "Venezuela ante el siglo XXI III (CSA213)"
+                ]
+            },
+            {
+                "year" : 2,
+                "names" : [
+                    "Dibujo Mecánico (MC2131)",
+                    "Física III (FS2211)",
+                    "Física IV (FS2212)",
+                    "Laboratorio de Física I (FS2181)",
+                    "Laboratorio de Física II (FS2281)",
+                    "Matemáticas IV (MA2115)",
+                    "Matemáticas V (MA2112)",
+                    "Matemáticas VI (MA2113)",
+                    "Mecánica Computacional I (MC2421)",
+                    "Mecánica Computacional II (MC2422)",
+                    "Mecánica de Materiales I (MC2141)",
+                    "Química General (QM1121)"
+                ]
+            },
+            {
+                "year" : 3,
+                "names" : [
+                    "Dinámica I (MC2431)",
+                    "Dinámica II (MC2432)",
+                    "Matemáticas VII (MA3111)",
+                    "Materiales (MT1113)",
+                    "Mecánica de Fluidos I (MC2312)",
+                    "Mecánica de Fluidos II (MC2313)",
+                    "Mecánica de Materiales II (MC2142)",
+                    "Mecánica de Materiales III (MC2143)",
+                    "Termodinámica I (TF1121)",
+                    "Termodinámica II (TF2123)",
+                    "Transferencia de Calor I (TF2251)",
+                    "Vibraciones Mecánicas (MC2415)"
+                ]
+            },
+            {
+                "year" : 4,
+                "names" : [
+                    "Accionamientos Eléctricos (CT3331)",
+                    "Dinámica de Máquinas (MC2414)",
+                    "Diseño de Máquinas I (MC4131)",
+                    "Diseño de Máquinas II (MC4132)",
+                    "Economía de la Empresa (CE3114)",
+                    "Instrumentación y Control (PS1316)",
+                    "Mecánica de Fluidos III (MC2314)",
+                    "Metodología del Diseño (MC4133)",
+                    "Procesos de Fabricación I (MC3611)",
+                    "Procesos de Fabricación II (MC3612)",
+                    "Transferencia de Calor II (TF2252)",
+                    "Turbomáquinas Hidráulicas (CT3411)",
+                    "Turbomáquinas Térmicas (CT3412)"
+                ]
+            },
+            {
+                "year" : 5,
+                "names" : [
+                    "Evaluación de proyectos (CE3122)",
+                    "Máquinas Volumétricas (CT3415)",
+                    "Sistemas Energéticos (CT3413)"
+                ]
+            }
+        ]
+    }
+]

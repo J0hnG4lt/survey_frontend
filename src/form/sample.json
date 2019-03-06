@@ -1,0 +1,45 @@
+{
+    "group" : "A",
+    "questions" : [
+        {
+            "question" : "Sample Question",
+            "type" : "input"
+        },
+        {
+            "question" : "Sample Question",
+            "type" : "textarea"
+        },
+        {
+            "question" : "Sample Question",
+            "type" : "dropdown",
+            "options" : [
+                "Sample Option 1", 
+                "Sample Option 2"
+            ]
+        },
+        {
+            "question" : "Sample Question",
+            "type" : "multivalue_dropdown",
+            "options" : [
+                "Sample Option 1", 
+                "Sample Option 2"
+            ]
+        },
+        {
+            "question" : "Sample Question",
+            "type" : "radio",
+            "options" : [
+                "Sample Option 1", 
+                "Sample Option 2"
+            ]
+        },
+        {
+            "question" : "Sample Question",
+            "type" : "checkbox",
+            "options" : [
+                "Sample Option 1", 
+                "Sample Option 2"
+            ]
+        }
+    ]
+}
