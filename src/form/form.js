@@ -54,6 +54,7 @@ class RevalidabilidadForm extends Component {
      * @param {string|number|string[]|number[]} value New answer to the question
      */
     changeStateFromChild(key, value){
+        console.log("Event: "+key+" "+value);
         this.setState(
             {[key] : value}
         );
@@ -92,9 +93,10 @@ class RevalidabilidadForm extends Component {
                     placeholder={"Introduce a sample answer"}
                     changeStateOfParent={this.changeStateFromChild}
                     showCondition={() => { 
-                        return this.state.sample_input_2 < 10; 
+                            return this.state.sample_input_2 < 10; 
+                        }
                     }
-                }
+                    key="Sample Question 1"
                 >
                     
                 </TextInputQuestion>
@@ -104,6 +106,7 @@ class RevalidabilidadForm extends Component {
                     component_name={"sample_input_2"}
                     placeholder={"Introduce a sample answer"}
                     changeStateOfParent={this.changeStateFromChild}
+                    key="Sample Question 2"
                 > 
 
                 </NumericInputQuestion>
@@ -114,6 +117,7 @@ class RevalidabilidadForm extends Component {
                     placeholder={"Introduce a sample answer"}
                     options={[1,2,3]}
                     changeStateOfParent={this.changeStateFromChild}
+                    key="Sample Question 3"
                 >
 
                 </DropdownQuestion>
@@ -123,6 +127,7 @@ class RevalidabilidadForm extends Component {
                     component_name={"sample_input_4"}
                     options={[1,2,3,4,5,6,7,8]}
                     changeStateOfParent={this.changeStateFromChild}
+                    key="Sample Question 4"
                 >
 
                 </RadioInputQuestion>
@@ -132,6 +137,7 @@ class RevalidabilidadForm extends Component {
                     component_name={"sample_input_5"}
                     placeholder={"Introduce a sample answer"}
                     changeStateOfParent={this.changeStateFromChild}
+                    key="Sample Question 5"
                 >
                     
                 </TextAreaQuestion>
@@ -146,6 +152,7 @@ class RevalidabilidadForm extends Component {
                         }
                     )}
                     changeStateOfParent={this.changeStateFromChild}
+                    key="Sample Question 6"
                 >
 
                 </DropdownQuestion>
@@ -164,12 +171,16 @@ class RevalidabilidadForm extends Component {
                             }
                     )}
                     changeStateOfParent={this.changeStateFromChild}
+                    key="Sample Question 7"
                 >
 
                 </DropdownQuestion>
-
-                <button type="submit">Send sample survey</button>
-
+                
+                <div
+                    className="submit"
+                >
+                    <button type="submit">Enviar Respuesta</button>
+                </div>
             </form>
         );
     }

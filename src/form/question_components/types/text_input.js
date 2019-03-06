@@ -27,7 +27,7 @@ class TextInputQuestion extends Component {
                     name={component_name}
                     type="text"
                     placeholder={this.props.placeholder}
-                    onChange={this.handleChange}
+                    onBlur={this.handleChange}
                 />
             </Question>
             :

@@ -25,7 +25,7 @@ class TextAreaQuestion extends Component {
             >
                 <textarea
                     placeholder={this.props.placeholder}
-                    onChange={this.handleChange}
+                    onBlur={this.handleChange}
                 > 
                 </textarea>
             </Question>

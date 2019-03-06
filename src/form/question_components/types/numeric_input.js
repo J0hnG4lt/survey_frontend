@@ -30,7 +30,7 @@ class NumericInputQuestion extends Component {
                     placeholder={this.props.placeholder}
                     min={this.props.min}
                     max={this.props.max}
-                    onChange={this.handleChange}
+                    onBlur={this.handleChange}
                 />
             </Question>
             :
