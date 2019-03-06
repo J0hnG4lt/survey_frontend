@@ -6,6 +6,8 @@ import DropdownQuestion from "./question_components/types/dropdown.js";
 import TextAreaQuestion from "./question_components/types/textarea.js";
 import RadioInputQuestion from "./question_components/types/radio.js";
 
+import post_resource from "../api/post.js";
+
 import * as countries_data from '../data/countries.json';
 import * as universities_data from '../data/world_universities_and_domains.json';
 
@@ -45,6 +47,18 @@ class RevalidabilidadForm extends Component {
     handleSubmit(event){
         event.preventDefault();
         console.log(this.state);
+        
+        let promise = post_resource(this.state);
+        
+        promise.then(function(response){
+            return response.json();
+        })
+        .then(function(json){
+            console.log('parsed json', json);
+        })
+        .catch(function(ex){
+            console.log('parsing failed', ex);
+        });
     }
 
     /**
