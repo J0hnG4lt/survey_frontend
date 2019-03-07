@@ -433,25 +433,6 @@ class RevalidabilidadForm extends Component {
                     />
 
                     <RadioInputQuestion
-                        question_title={"Si la respuesta anterior fue afirmativa, \
-                            indique en qué institución realizó estos estudios."}
-                        component_name={"ppa-8"}
-                        options={
-                            [
-                                "USB",
-                                "Otra institución", 
-                                "No Responde"
-                            ]
-                        }
-                        changeStateOfParent={this.changeStateFromChild}
-                        key="ppa-8"
-                        showCondition={() => { 
-                                return this.state["ppa-7"] === "Sí"; 
-                            }
-                        }
-                    />
-
-                    <RadioInputQuestion
                         question_title={"¿Finalizó estos estudios de postgrado \
                             en Venezuela antes de realizar la gestión \
                             de convalidación?"}
@@ -566,6 +547,25 @@ class RevalidabilidadForm extends Component {
                                 && (this.state["pf-3"] === "No")
                                 && (this.state["pf-5"] === "Sí")
                                 && (this.state["pf-6"] === "Cursé estudios de postgrado y trabajé")) ; 
+                            }
+                        }
+                    />
+
+                    <RadioInputQuestion
+                        question_title={"Si la respuesta anterior fue afirmativa, \
+                            indique en qué institución realizó estos estudios."}
+                        component_name={"ppa-8"}
+                        options={
+                            [
+                                "USB",
+                                "Otra institución", 
+                                "No Responde"
+                            ]
+                        }
+                        changeStateOfParent={this.changeStateFromChild}
+                        key="ppa-8"
+                        showCondition={() => { 
+                                return this.state["ppa-7"] === "Sí"; 
                             }
                         }
                     />
