@@ -22,6 +22,44 @@ class RadioInputQuestion extends Component {
         let options = this.props.options;
         let option_buttons = options.map(
             function(name, index){
+                let defaultCondition = (index === options.length-1);
+                if (defaultCondition) {
+                    return (
+                        <label 
+                            key={"label"+component_name+question_title+name.toString()+index.toString()}
+                        >
+                            
+                            {name}
+                            
+                            <input 
+                            name={component_name}
+                            value={name}
+                            defaultChecked={true}
+                            type="radio"
+                            key={component_name+question_title+name.toString()+index.toString()}
+                            />
+        
+                        </label>
+                        );
+                }else {
+                    return (
+                        <label 
+                            key={"label"+component_name+question_title+name.toString()+index.toString()}
+                        >
+                            
+                            {name}
+                            
+                            <input 
+                            name={component_name}
+                            value={name}
+                            type="radio"
+                            key={component_name+question_title+name.toString()+index.toString()}
+                            />
+        
+                        </label>
+                        );
+                }
+                
                 return (
                 <label 
                     key={"label"+component_name+question_title+name.toString()+index.toString()}
@@ -29,13 +67,22 @@ class RadioInputQuestion extends Component {
                     
                     {name}
                     
+                    {defaultCondition} ?
+                    <input 
+                    name={component_name}
+                    value={name}
+                    defaultChecked={true}
+                    type="radio"
+                    key={component_name+question_title+name.toString()+index.toString()}
+                    />
+                    :
                     <input 
                     name={component_name}
                     value={name}
                     type="radio"
                     key={component_name+question_title+name.toString()+index.toString()}
                     />
-                
+
                 </label>
                 );
             })

@@ -362,7 +362,7 @@ class RevalidabilidadForm extends Component {
                                 "Entre 3,5000 y 3,9999", 
                                 "Entre 4,0000 y 4,4999",
                                 "Entre 4,8000 y 5,0000",
-                                "No Responder"
+                                "No Responde"
                             ]
                         }
                         changeStateOfParent={this.changeStateFromChild}
@@ -1138,7 +1138,7 @@ class RevalidabilidadForm extends Component {
                             "Embajada",
                             "Universidad de destino académico",
                             "Otra",
-                            "No Responder"
+                            "No Responde"
                         ]}
                         changeStateOfParent={this.changeStateFromChild}
                         key="pc-28"
@@ -1166,7 +1166,7 @@ class RevalidabilidadForm extends Component {
                             "Embajada",
                             "Universidad de destino académico",
                             "Otra",
-                            "No Responder"
+                            "No Responde"
                         ]}
                         changeStateOfParent={this.changeStateFromChild}
                         key="pc-29"
@@ -1193,7 +1193,7 @@ class RevalidabilidadForm extends Component {
                             "Embajada",
                             "Universidad de destino académico",
                             "Otra",
-                            "No Responder"
+                            "No Responde"
                         ]}
                         changeStateOfParent={this.changeStateFromChild}
                         key="pc-30"
@@ -1273,13 +1273,13 @@ class RevalidabilidadForm extends Component {
                         changeStateOfParent={this.changeStateFromChild}
                         key="pc-33"
                         showCondition={() => { 
-                                return (this.state["pf-4"] === "Estoy trabajando")
+                                return (this.state["pf-4"] === "Estoy cursando estudios de postgrado")
                                 || 
                                 (this.state["pf-4"] === "Estoy cursando estudios de postgrado y trabajando")
                                 ||
                                 ( 
                                     (this.state["pf-5"] === "Sí")
-                                    && (this.state["pf-6"] === "Trabajé")
+                                    && (this.state["pf-6"] === "Cursé estudios de postgrado")
                                 ) 
                                 ||
                                 ( 
